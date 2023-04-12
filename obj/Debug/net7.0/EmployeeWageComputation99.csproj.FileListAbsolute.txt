@@ -1,0 +1,15 @@
+C:\Users\91846\source\repos\EmployeeWageComputation99\bin\Debug\net7.0\EmployeeWageComputation99.exe
+C:\Users\91846\source\repos\EmployeeWageComputation99\bin\Debug\net7.0\EmployeeWageComputation99.deps.json
+C:\Users\91846\source\repos\EmployeeWageComputation99\bin\Debug\net7.0\EmployeeWageComputation99.runtimeconfig.json
+C:\Users\91846\source\repos\EmployeeWageComputation99\bin\Debug\net7.0\EmployeeWageComputation99.dll
+C:\Users\91846\source\repos\EmployeeWageComputation99\bin\Debug\net7.0\EmployeeWageComputation99.pdb
+C:\Users\91846\source\repos\EmployeeWageComputation99\obj\Debug\net7.0\EmployeeWageComputation99.csproj.AssemblyReference.cache
+C:\Users\91846\source\repos\EmployeeWageComputation99\obj\Debug\net7.0\EmployeeWageComputation99.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91846\source\repos\EmployeeWageComputation99\obj\Debug\net7.0\EmployeeWageComputation99.AssemblyInfoInputs.cache
+C:\Users\91846\source\repos\EmployeeWageComputation99\obj\Debug\net7.0\EmployeeWageComputation99.AssemblyInfo.cs
+C:\Users\91846\source\repos\EmployeeWageComputation99\obj\Debug\net7.0\EmployeeWageComputation99.csproj.CoreCompileInputs.cache
+C:\Users\91846\source\repos\EmployeeWageComputation99\obj\Debug\net7.0\EmployeeWageComputation99.dll
+C:\Users\91846\source\repos\EmployeeWageComputation99\obj\Debug\net7.0\refint\EmployeeWageComputation99.dll
+C:\Users\91846\source\repos\EmployeeWageComputation99\obj\Debug\net7.0\EmployeeWageComputation99.pdb
+C:\Users\91846\source\repos\EmployeeWageComputation99\obj\Debug\net7.0\EmployeeWageComputation99.genruntimeconfig.cache
+C:\Users\91846\source\repos\EmployeeWageComputation99\obj\Debug\net7.0\ref\EmployeeWageComputation99.dll
